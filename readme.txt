@@ -13,6 +13,5 @@ Algorithm Used:
 	
 Usage:
 	after installing requirements
-	
 	to run:
 		"python interactive.py"
