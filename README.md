@@ -1,5 +1,5 @@
 -----NOTE----
-Program not up to date with latest version of Tweepy
+Since new updates to twitter API policy which causes errors in one of the libraries used here, this project is now deprecated.
 -----
 
 # politicagenda
